@@ -1,0 +1,8 @@
+{
+  "name": "PostEase",
+  "description": "AI-powered social media management, multi-platform scheduling, and reel creation studio for creators, brands, and agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
